@@ -7,7 +7,6 @@ Basically I have performed operations using this api on a customer information t
 
 *GET - yourdomain.com/api/customers*
       - this will give information about all customers in JSON format
-      
       *-yourdomain.com/api/customers/{id}*
       - this will give the information about customer having id={id}.
       
