@@ -5,7 +5,7 @@ Designed with PHP slim framework it's easy to understand and modify
 # How to call the api?
 Basically I have performed operations using this api on a customer information table.
 
-*GET - yourdomain.com/api/customers *
+*GET - yourdomain.com/api/customers*
       this will give information about all customers in JSON format
       
       -yourdomain.com/api/customers/{id}
