@@ -6,8 +6,11 @@ Designed with PHP slim framework it's easy to understand and modify
 Basically I have performed operations using this api on a customer information table.
 
 *GET - yourdomain.com/api/customers*
-      this will give information about all customers in JSON format      
+
+      this will give information about all customers in JSON format
+      
       *-yourdomain.com/api/customers/{id}*
+      
       this will give the information about customer having id={id}.
       
 *POST - yourdomain.com/api/customers/add*
