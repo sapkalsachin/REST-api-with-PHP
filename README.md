@@ -6,13 +6,13 @@ Designed with PHP slim framework it's easy to understand and modify
 Basically I have performed operations using this api on a customer information table.
 
 *GET - yourdomain.com/api/customers*
-      this will give information about all customers in JSON format
+      -this will give information about all customers in JSON format
       
       *-yourdomain.com/api/customers/{id}*
-      this will give the information about customer having id={id}.
+      -this will give the information about customer having id={id}.
       
 *POST - yourdomain.com/api/customers/add*
-      this will add new entry to the table the JSON file should be like this
+      -this will add new entry to the table the JSON file should be like this
       
       {
       
@@ -27,10 +27,10 @@ Basically I have performed operations using this api on a customer information t
       }
       
 *DELETE - yourdomain.com/api/customers/delete/{id}*
-      this will delete the record of the given id
+       -this will delete the record of the given id
       
 *PUT - yourdomain.com/api/customers/update/{id}*
-       this will update a row in table the JSON file should be like this
+       -this will update a row in table the JSON file should be like this
        
       {
       
